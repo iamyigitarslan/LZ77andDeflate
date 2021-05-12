@@ -18,4 +18,4 @@ The project is written in C language and on the CodeBloks platform.
 
 Project by
 
-170202034 Hasan Yiğit Arslan
+Hasan Yiğit Arslan
